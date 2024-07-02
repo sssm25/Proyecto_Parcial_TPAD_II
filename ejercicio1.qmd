@@ -3,8 +3,8 @@ title: "Using Bash"
 engine: knitr
 ---
 ```{bash}
-destino_favo="playa"
+destino_favorito="playa"
 ultimo_lugar="candombe"
-lugar_a_visi="monteverde"
+lugar_a_visitar="monteverde"
 
 echo "Mi destino de viaje favorito es $destino_favorito, el último lugar que visité fue $ultimo_lugar y me gustaría visitar $lugar_a_visitar"
